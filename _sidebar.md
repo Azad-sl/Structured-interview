@@ -1,7 +1,12 @@
 <!-- _sidebar.md -->
 
-* [能力考察](/README.md)
+* [能力考察](/docs/README.md)
+  
   * [一、综合分析（时政类+哲理类）](/docs/一、综合分析（时政类+哲理类）.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/docs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+  * [二、组织协调](/docs/二、组织协调.MD)
+  * [三、人际管理](/docs/三、人际管理.MD)
+  * [四、应变处突](/docs/四、应变处突.MD)
+  * [五、人岗匹配](/docs/五、人岗匹配.MD)
+  * [六、言语表达](/docs/六、言语表达.MD)
+  
+  
